@@ -48,4 +48,4 @@ Raw Threat Intelligence
           |
           +----> Mock Firewall
 ```
-᯽ THANK YOU ᯽
+᯽ GO SLEEP, YOU OWL ᯽
